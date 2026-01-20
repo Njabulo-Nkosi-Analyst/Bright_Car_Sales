@@ -1,4 +1,4 @@
-    
+---cleaning data    
     with cleaned as (
     SELECT 
     
@@ -8,10 +8,11 @@
       FORMAT(saledate, 'yyyy') AS YEARS,
       FORMAT(saledate, 'MMM') AS MONTH,
       FORMAT(saledate, 'ddd') AS WEEKDAYS,
+        
       ----time
       FORMAT(saledate, 'HH:mm') AS Time_24hr,
 
-      ---case statement
+      ---case statement time
       CASE
          WHEN FORMAT(saledate, 'HH:mm') BETWEEN '00:00' AND '05:59' THEN '1.Night (00:00-05:59)'   
          WHEN FORMAT(saledate, 'HH:mm') BETWEEN '06:00' AND '11:59' THEN '2.Morning (06:00-11:59)'
@@ -90,21 +91,7 @@ SELECT
 FROM 
    cleaned
 GROUP BY sale_date_formatted,MONTH_ID,YEARS,MONTH,WEEKDAYS,Time_24hr,Time_Group ,Mileage_Segment,Condition_Segment,
-    [year]
-      ,[make]
-      ,[model]
-      ,[trim]
-      ,[body]
-      ,[transmission]
-      ,[vin]
-      ,[state]
-      ,[condition]
-      ,[odometer]
-      ,[color]
-      ,[interior]
-      ,[seller]
-      ,[mmr]
-      ,[sellingprice]
-      ,[saledate]
+    [year],[make],[model],[trim],[body],[transmission],[vin  ,[state],[condition],[odometer],[color],[interior]
+      ,[seller],[mmr],[sellingprice],[saledate]
 ORDER BY 
     Total_Revenue DESC;
