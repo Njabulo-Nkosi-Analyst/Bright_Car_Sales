@@ -1,1 +1,2 @@
 Data/*.csv filter=lfs diff=lfs merge=lfs -text
+04[[:space:]]Output/** filter=lfs diff=lfs merge=lfs -text
