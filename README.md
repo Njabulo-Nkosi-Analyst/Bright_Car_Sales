@@ -45,3 +45,10 @@ This project analyzes a dataset covering a significant growth period (2014–201
 
 -🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning
 [> 🔗View Miro Board](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/03%20Documentation/Project_Plan.png)
+
+
+## 📩 Contact
+
+Want to collaborate or have feedback?  
+📧 Email: Njabuloxnkosi12@gmail.com
+🔗 LinkedIn:(www.linkedin.com/in/njabulo-nkosi-949359325)
