@@ -25,16 +25,23 @@ This project analyzes a dataset covering a significant growth period (2014–201
 
 ##  🎥 How to View
 
--**💡Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/da4f0e700986b4f4272f42b1c353c4f9c040e5ee)
+-💻**SQL Code** - Includes all queries used for data transformation and insights.
+[> 🔗 View SQL Scripts](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/02%20Analysis/SQL_Queries%20.sql)
+
+
+-**📊Excel Pivot Table** - is available in PDF format within this repository.- [>🔗View Pivot Table](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/02%20Analysis/Pivot%20Charts.pdf)
+
+-**📽️Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/04%20Output/Car%20Dealer%20Presentation.pdf)
+
+ -🎨 **Dashboard Preview**- [>🔗 View Full Dashboard on Power BI](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/04%20Output/Car%20Dealer%20Dashboard.pbix)
+
+-**🧹Uncleaned Data** - is available in CSV format within this repository.- [>🔗View Uncleaned Data](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/Data/Original%20Raw%20Data.csv)
+
+-**✨Cleaned Data** - is available in CSV format within this repository.- [>🔗View Cleaned Data](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/Data/Insights%20dataset.csv)
+
+-**📝Project Description** - This File Shows The Objective And Aims Of The New CEO.- [>🔗 View Project Description](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/03%20Documentation/Car%20sales%20Analysis(Bright%20Motors).pdf)
+
+-**📅Gantt Charts** - is available in PDF format within this repository.- [>🔗View Gantt Charts](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/03%20Documentation/Gantt%20Chats.png)
 
 -🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning
-[> 🔗View Miro Board](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/3a970fd81c9181099ae96758d3f5d104bf287605)
-
-
--💻**SQL Code** - Includes all queries used for data transformation and insights.
-[> 🔗 View SQL Scripts](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/a29c78c94581465e8c427c77aa5f0d9e2d2007e1) 
-
-
- -📊 **Dashboard Preview**- [>🔗 View Full Dashboard on Power BI (Public Link)](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/a7b0d01fe0c473d6d06fe5d2d211f071302b4aa6)
-
--**📝Project Description** - This File Shows The Objective And Aims Of The New CEO.- [>🔗 View Project Description](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/9f645d422670eb39631317ef64d5abee0b964b97)
+[> 🔗View Miro Board](https://github.com/Njabulo-Nkosi-Analyst/Bright_Car_Sales/blob/main/03%20Documentation/Project_Plan.png)
